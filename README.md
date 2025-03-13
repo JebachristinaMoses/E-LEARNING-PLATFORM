@@ -11,7 +11,22 @@ DOMAIN:FRONTEND WEB DEVELOPMENT
 DURATION:4 WEEKS
 
 MENTOR NAME:NEELA SANTHOSH
-#
+
+#With the help of tools like HTML and CSS, I have created an E Learning Platform For the College Students. I Have structured the content with HTML. styled the application with CSS. Added elements for the awesome features container (cards),our popular courses container, buttons, and contact form in html. Created a CSS file to style the elements.
+
+HTML: To structure the web page and display courses.
+
+CSS: To style the web page and make it visually appealing.
+
+The E Learning platform website consists of:
+
+1.A home page consists of some information.
+
+2.A About us page consists of our  details.
+
+3.A our courses page consits of our popular courses details.
+
+4.A Contact page with  a form for more details and Also A home button to go back.
 
 #OUTPUT
 
